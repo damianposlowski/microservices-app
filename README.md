@@ -7,3 +7,5 @@ The app is divided into two parts:
 - payment
 
 It's a microservice allowing to manage inventory supplies, buy these supplies with a payment system that additionally adds provision and update the inventory after each transaction.
+
+The project was based on the freecodecamp course by Scalable Scripts.
