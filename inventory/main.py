@@ -1,5 +1,5 @@
 # Run FastAPI server with:
-# uvicorn main:app --reload
+# uvicorn inventory.main:app --reload
 
 from fastapi import FastAPI
 
